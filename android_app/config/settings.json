@@ -1,0 +1,17 @@
+{
+    "install_path": "/data/local/tmp",
+    "enable_metasploit": true,
+    "enable_backdoor_factory": true,
+    "enable_searchsploit": true,
+    "enable_apktool": true,
+    "enable_java": true,
+    "package_for_deployment": true,
+    "deployment_target": "local_storage",
+    "log_level": "INFO",
+    "timeout_seconds": 600,
+    "max_retries": 3,
+    "check_root": true,
+    "check_internet": true,
+    "auto_cleanup": true,
+    "keep_package_count": 5
+}
